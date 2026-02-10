@@ -25,7 +25,7 @@ function Login({ switchToSignup }) {
 
     // const validationError = validate()
     // if (validationError) {
-    //   setError(validationError)
+    //   setError(validationError)  
     //   return
     // }
 
