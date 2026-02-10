@@ -23,11 +23,11 @@ function Login({ switchToSignup }) {
   const handleSubmit = async (e) => {
     e.preventDefault()
 
-    const validationError = validate()
-    if (validationError) {
-      setError(validationError)
-      return
-    }
+    // const validationError = validate()
+    // if (validationError) {
+    //   setError(validationError)
+    //   return
+    // }
 
     setLoading(true)
     setError("")
