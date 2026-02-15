@@ -132,7 +132,7 @@ useEffect(() => {
 
             <button
               onClick={logout}
-              className="mb-4 px-3 py-1 bg-[oklch(0.42_0.16_25.15)] rounded text-white"
+              className=" px-3 py-1 bg-[oklch(0.42_0.16_25.15)] rounded text-white"
             >
               Logout
             </button>
