@@ -125,7 +125,7 @@ useEffect(() => {
           className="w-full max-w-2xl mx-auto rounded-lg px-4 pt-2 pb-8 text-white"
           style={{ backgroundColor: "#1a2333" }}
         >
-          <div className='flex justify-between'>
+          <div className='flex justify-between bg-[#414f65]  items-center bordered-xl p-5'>
             <div>
               Hello, {user?.name || user?.email}
             </div>
