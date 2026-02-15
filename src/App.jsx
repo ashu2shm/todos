@@ -139,7 +139,7 @@ useEffect(() => {
           </div>
 
 
-          <h1 className="text-2xl font-bold text-center mb-8 mt-2">
+          <h1 className="text-2xl font-bold text-center mb-8 mt-12">
             Manage Your Todos
           </h1>
 
